@@ -1,0 +1,1 @@
+This repository showcases a common yet dangerous error in C programming: attempting to free a pointer that points to memory allocated on the stack.  The code demonstrates how this leads to undefined behavior, which can manifest in various unpredictable ways depending on the system and compiler. The solution provides a corrected version.
